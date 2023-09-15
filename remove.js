@@ -5,6 +5,7 @@ function removeIds(arr,a){
     return arr;
 
 }
+
 // an array 
 let arr = [
     {
